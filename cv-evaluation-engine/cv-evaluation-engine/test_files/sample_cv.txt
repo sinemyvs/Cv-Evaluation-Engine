@@ -1,0 +1,62 @@
+AHMET YILMAZ
+Yazılım Geliştirici
+ahmet.yilmaz@email.com | +90 555 123 4567
+İstanbul, Türkiye
+
+PROFESYONEL ÖZET
+5 yıllık deneyime sahip, Python ve JavaScript uzmanı yazılım geliştirici. 
+Veri bilimi ve web geliştirme alanlarında güçlü teknik becerilere sahip.
+
+EĞİTİM
+Bilgisayar Mühendisliği - Lisans
+İstanbul Teknik Üniversitesi, 2015-2019
+GPA: 3.8/4.0
+
+İŞ DENEYİMİ
+
+Senior Python Developer
+TechCorp A.Ş., İstanbul
+2021 - Şimdi (3 yıl)
+• Django ve Flask framework'leri ile web uygulamaları geliştirdim
+• PostgreSQL ve MongoDB veritabanları ile çalıştım
+• AWS ve Docker kullanarak uygulamaları deploy ettim
+• RESTful API'ler tasarladım ve geliştirdim
+• Git ve Jenkins ile CI/CD süreçlerini yönettim
+
+Python Developer
+DataSoft Ltd., İstanbul
+2019 - 2021 (2 yıl)
+• Pandas ve NumPy ile veri analizi yaptım
+• Scikit-learn ile makine öğrenmesi modelleri geliştirdim
+• Jupyter Notebook kullanarak veri görselleştirme yaptım
+• SQL sorguları yazdım ve veritabanı optimizasyonu gerçekleştirdim
+
+YETENEKLER
+
+Programlama Dilleri:
+Python, JavaScript, TypeScript, SQL, HTML, CSS
+
+Frameworks & Kütüphaneler:
+Django, Flask, React, Node.js, Express.js, FastAPI
+
+Veritabanları:
+PostgreSQL, MySQL, MongoDB, Redis
+
+Veri Bilimi:
+Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
+
+Bulut & DevOps:
+AWS (EC2, S3, RDS), Docker, Kubernetes, Git, Jenkins
+
+Araçlar:
+Linux, Windows, Git, Jira, Slack, Tableau
+
+SERTİFİKALAR
+• AWS Certified Solutions Architect (2022)
+• Google Data Analytics Professional Certificate (2021)
+• Microsoft Azure Fundamentals (2020)
+
+PROJELER
+• E-ticaret platformu (Django, PostgreSQL, React)
+• Veri analizi dashboard'u (Python, Pandas, Plotly)
+• Machine Learning modeli (Scikit-learn, TensorFlow)

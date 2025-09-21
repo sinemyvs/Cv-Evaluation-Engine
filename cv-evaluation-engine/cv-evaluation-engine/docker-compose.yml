@@ -1,0 +1,14 @@
+services:
+  cv-evaluation:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./uploads:/app/uploads
+      - ./salary_prediction_model.joblib:/app/salary_prediction_model.joblib
+      - ./salary_label_encoder.joblib:/app/salary_label_encoder.joblib
+    environment:
+      - FLASK_ENV=production
+      - FLASK_DEBUG=0
+    restart: unless-stopped
+    container_name: cv-evaluation-engine

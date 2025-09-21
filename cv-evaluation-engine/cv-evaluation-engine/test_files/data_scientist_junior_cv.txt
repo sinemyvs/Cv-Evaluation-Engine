@@ -1,0 +1,115 @@
+MEHMET ÖZKAN
+Data Scientist & Analytics Specialist
+mehmet.ozkan@email.com | +90 555 987 6543
+Ankara, Turkey | GitHub: github.com/mehmetozkan
+
+PROFESSIONAL SUMMARY
+2+ years of experience in data science and analytics with strong foundation in 
+statistics and machine learning. Passionate about extracting insights from data 
+and building predictive models. Proficient in Python, SQL, and data visualization 
+tools. Eager to contribute to data-driven decision making in dynamic environments.
+
+EDUCATION
+M.S. in Data Science
+Hacettepe University, Ankara, Turkey (2021-2023)
+Thesis: "Machine Learning Applications in Healthcare Data Analysis"
+GPA: 3.6/4.0
+
+B.S. in Industrial Engineering
+Gazi University, Ankara, Turkey (2017-2021)
+GPA: 3.4/4.0
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist
+AnalyticsPro, Ankara, Turkey
+2022 - Present (1.5 years)
+• Developed machine learning models for customer segmentation using clustering algorithms
+• Created interactive dashboards using Tableau and Power BI for business intelligence
+• Performed statistical analysis and hypothesis testing for marketing campaigns
+• Built ETL pipelines using Python and SQL for data processing and cleaning
+• Collaborated with marketing team to optimize customer acquisition strategies
+• Implemented A/B testing frameworks for product feature evaluation
+
+Junior Data Analyst
+DataInsights Ltd., Ankara, Turkey
+2021 - 2022 (1 year)
+• Analyzed large datasets using Python, Pandas, and NumPy for business insights
+• Created data visualizations using Matplotlib, Seaborn, and Plotly
+• Developed SQL queries for data extraction and reporting
+• Assisted in building predictive models using scikit-learn
+• Prepared weekly and monthly reports for management
+• Worked with cross-functional teams to understand business requirements
+
+Data Science Intern
+TechStart, Ankara, Turkey
+2020 - 2021 (6 months)
+• Assisted in data collection and preprocessing for machine learning projects
+• Learned advanced statistical methods and machine learning algorithms
+• Participated in model development and validation processes
+• Gained experience with cloud platforms (AWS, Google Cloud)
+• Contributed to open-source data science projects
+
+TECHNICAL SKILLS
+
+Programming Languages:
+Python (2 years), R (1.5 years), SQL (2 years), JavaScript (1 year)
+
+Machine Learning & AI:
+Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Linear Regression, Logistic Regression, Decision Trees, Random Forest
+K-Means Clustering, PCA, Time Series Analysis
+Model Evaluation, Cross-validation, Hyperparameter Tuning
+
+Data Science Tools:
+Jupyter Notebook, Anaconda, Google Colab
+Excel, Power BI, Tableau
+Git, GitHub, Jira, Confluence
+
+Cloud & Databases:
+AWS (EC2, S3, RDS), Google Cloud Platform (BigQuery, Colab)
+PostgreSQL, MySQL, MongoDB
+Docker (Basic), Linux (Ubuntu)
+
+Statistical Analysis:
+Descriptive Statistics, Inferential Statistics, Hypothesis Testing
+A/B Testing, Experimental Design, Statistical Modeling
+Time Series Analysis, Regression Analysis
+
+PROJECTS
+
+Customer Churn Prediction
+• Built a logistic regression model to predict customer churn with 85% accuracy
+• Used feature engineering and cross-validation for model optimization
+• Created interactive dashboard for business stakeholders
+
+E-commerce Sales Forecasting
+• Developed time series forecasting model using ARIMA and Prophet
+• Analyzed seasonal patterns and trends in sales data
+• Implemented automated forecasting pipeline for monthly reports
+
+Sentiment Analysis for Social Media
+• Created sentiment analysis model using NLP techniques
+• Processed and analyzed social media data for brand monitoring
+• Built real-time sentiment tracking dashboard
+
+Data Visualization Portfolio
+• Created comprehensive data visualization portfolio using Tableau
+• Developed interactive dashboards for various business metrics
+• Published visualizations on Tableau Public
+
+CERTIFICATIONS
+• Google Data Analytics Professional Certificate (2022)
+• Microsoft Azure Fundamentals (2021)
+• Python for Data Science - Coursera (2021)
+• SQL for Data Science - Coursera (2021)
+
+LANGUAGES
+Turkish (Native), English (Intermediate)
+
+ADDITIONAL INFORMATION
+• Active member of Ankara Data Science Meetup community
+• Regular contributor to data science blogs and forums
+• Volunteer data analysis for local non-profit organizations
+• Enthusiastic learner with strong problem-solving skills
+• Team player with excellent communication abilities

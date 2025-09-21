@@ -1,0 +1,111 @@
+DR. AYŞE KAYA
+Senior Data Scientist & Machine Learning Engineer
+ayse.kaya@email.com | +90 532 123 4567
+Istanbul, Turkey | LinkedIn: linkedin.com/in/ayse-kaya
+
+PROFESSIONAL SUMMARY
+8+ years of experience in data science, machine learning, and artificial intelligence. 
+Expert in Python, R, and advanced statistical modeling. Led multiple ML projects 
+from conception to production deployment. Strong background in deep learning, 
+computer vision, and natural language processing.
+
+EDUCATION
+Ph.D. in Computer Science - Machine Learning Specialization
+Bogazici University, Istanbul, Turkey (2015-2019)
+Thesis: "Deep Learning Approaches for Time Series Forecasting in Financial Markets"
+GPA: 3.9/4.0
+
+M.S. in Statistics
+Middle East Technical University, Ankara, Turkey (2013-2015)
+GPA: 3.8/4.0
+
+B.S. in Mathematics
+Istanbul Technical University, Istanbul, Turkey (2009-2013)
+GPA: 3.7/4.0
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist
+TechCorp AI Solutions, Istanbul, Turkey
+2021 - Present (3 years)
+• Led a team of 5 data scientists in developing ML models for e-commerce recommendation systems
+• Built and deployed deep learning models using TensorFlow and PyTorch for image classification
+• Implemented MLOps pipelines using Docker, Kubernetes, and AWS SageMaker
+• Achieved 25% improvement in model accuracy through advanced feature engineering
+• Mentored junior data scientists and conducted technical interviews
+• Collaborated with product managers and software engineers to integrate ML solutions
+
+Data Scientist
+DataSoft Analytics, Istanbul, Turkey
+2019 - 2021 (2 years)
+• Developed predictive models for customer churn analysis using scikit-learn and XGBoost
+• Created interactive dashboards using Tableau and Power BI for business stakeholders
+• Performed statistical analysis and A/B testing for product optimization
+• Built real-time data processing pipelines using Apache Spark and Kafka
+• Worked with large datasets (10M+ records) using SQL and NoSQL databases
+
+Machine Learning Engineer
+StartupTech, Istanbul, Turkey
+2017 - 2019 (2 years)
+• Designed and implemented computer vision models for object detection
+• Developed NLP models for sentiment analysis and text classification
+• Built recommendation systems using collaborative filtering and content-based approaches
+• Optimized model performance and reduced inference time by 40%
+
+Research Assistant
+Bogazici University, Istanbul, Turkey
+2015 - 2017 (2 years)
+• Conducted research on deep learning applications in financial time series
+• Published 3 papers in top-tier conferences (ICML, NeurIPS, ICLR)
+• Developed novel algorithms for time series forecasting using LSTM and Transformer architectures
+
+TECHNICAL SKILLS
+
+Programming Languages:
+Python (8 years), R (6 years), SQL (8 years), JavaScript (3 years), Scala (2 years)
+
+Machine Learning & AI:
+TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, LightGBM, CatBoost
+Deep Learning, Computer Vision, Natural Language Processing, Time Series Analysis
+Statistical Modeling, A/B Testing, MLOps, Model Deployment
+
+Data Science Tools:
+Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook, Anaconda
+Apache Spark, Hadoop, Hive, Pig, Kafka, Airflow
+Tableau, Power BI, Grafana, ELK Stack
+
+Cloud & DevOps:
+AWS (EC2, S3, RDS, SageMaker, Lambda, CloudFormation)
+Google Cloud Platform (BigQuery, AI Platform, Vertex AI)
+Microsoft Azure (ML Studio, Databricks, Cognitive Services)
+Docker, Kubernetes, Terraform, Jenkins, GitLab CI/CD
+
+Databases:
+PostgreSQL, MySQL, MongoDB, Redis, Cassandra, Elasticsearch
+BigQuery, Snowflake, Redshift
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty (2023)
+• Google Cloud Professional Data Engineer (2022)
+• Microsoft Azure Data Scientist Associate (2021)
+• Deep Learning Specialization - DeepLearning.AI (2020)
+
+PUBLICATIONS
+1. "Transformer-based Time Series Forecasting for Financial Markets" - ICML 2023
+2. "Multi-modal Deep Learning for E-commerce Recommendation Systems" - NeurIPS 2022
+3. "Attention Mechanisms in LSTM Networks for Sequence Modeling" - ICLR 2021
+
+PROJECTS
+• E-commerce Recommendation Engine: Built a hybrid recommendation system serving 1M+ users
+• Fraud Detection System: Developed real-time fraud detection using ensemble methods
+• Computer Vision Pipeline: Created automated image classification for quality control
+• NLP Chatbot: Built intelligent customer service chatbot using BERT and GPT models
+
+LANGUAGES
+Turkish (Native), English (Fluent), German (Intermediate)
+
+ADDITIONAL INFORMATION
+• Active contributor to open-source ML libraries
+• Speaker at international conferences (PyData, MLConf, Data Science Meetup)
+• Mentor for Women in Data Science (WiDS) community
+• Volunteer data science instructor for underprivileged students
